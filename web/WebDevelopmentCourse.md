@@ -2,8 +2,8 @@
 
  -  (Resources List)[https://www.appbrewery.co/p/web-development-course-resources/]
 
- [x] Intro
- [] HTML
+<br> [x] Intro <br>
+<br> [] HTML <br>
  [] Personal CV Website
  [] Hosting your website on Github
  [] CSS
@@ -32,5 +32,5 @@
  [] Bonus: Design School 101
  
  -
- 
+
 
